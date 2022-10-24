@@ -1,7 +1,7 @@
 {
-	"ars_nouveau.familiar_desc.familiar_bookwyrm": "A Bookwyrm will reduce the cost of all spells cast, and increases any spell damage by 1. Obtained by performing the Ritual of Binding near a Bookwyrm.",
-	"ars_nouveau.familiar_desc.familiar_drygmy": "A Drygmy familiar will increase the damage of Earth spells by 2, and has a chance to increase the amount of looting when slaying enemies. Obtained by performing the Ritual of Binding near a Drygmy.",
-	"ars_nouveau.familiar_desc.familiar_starbuncle": "A Starbuncle familiar that will grant you Speed 2. Additionally, using a Golden Nugget on the starbuncle will consume it and grant the owner a short duration of Scrying for Gold Ore. Obtained by performing the Ritual of Binding near a Starbuncle.",
+	"ars_nouveau.familiar_desc.familiar_bookwyrm": "Un Bookwyrm redueix el cost dels sortilegis llençats i incrementa el mal en 1. S'obté realitzant el Ritual del Lligam a prop d'un Bookwyrm.",
+	"ars_nouveau.familiar_desc.familiar_drygmy": "Un familiar Drygmy augmenta el mal dels encanteris de Terra en 2 i pot augmentar la quantitat de saqueig al matar enemics. S'obté realitzant el Ritual del Lligam a prop d'un Drygmy.",
+	"ars_nouveau.familiar_desc.familiar_starbuncle": "Un familiar Starbuncle que t'atorga Velocitat II. A més, utilitzar una peça d'or a l'Starbuncle el consumirà i atorgarà al propietari una curta durada de Clarividéncia per Mineral d'Or. S'obté realitzant el Ritual del Lligam a prop d'un Starbuncle.",
 	"ars_nouveau.familiar_desc.familiar_whirlisprig": "Whirlisprigs will reduce the cost of Elemental Earth glyphs by half, and grants bonus saturation when consuming food. Obtained by performing the Ritual of Binding near a Whirlisprig.",
 	"ars_nouveau.familiar_desc.familiar_wixie": "Wixies will increase the duration of potions that you apply, and wixies will accept basic potion reagents in exchange for applying the tier 1 potion result. Additionally, the Wixie will apply harmful potions to enemies during combat. Obtained by performing the Ritual of Binding near a Wixie.",
 	"ars_nouveau.familiar_name.familiar_bookwyrm": "Bookwyrm",
